@@ -16,4 +16,3 @@ the "Deliver" stage of your Pipeline.
 
 #Added new comment for testing Github Webooks from Github
 
-test
